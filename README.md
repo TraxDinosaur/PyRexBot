@@ -56,7 +56,7 @@ bot.start()
 
 ## 📚 Documentation
 
-Full documentation is available [here](https://github.com/TraxDinosaur/PyRexBot/wiki).
+Full documentation is available [here](https://github.com/TraxDinosaur/PyRexBot/wiki/PyRexBot).
 
 ---
 
