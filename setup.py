@@ -2,7 +2,7 @@ import setuptools
 
 # Package metadata
 NAME = "PyRexBot"
-VERSION = "1.0.0"
+VERSION = "1.0.2"
 DESCRIPTION = "PyBotRex simplifies Telegram bot creation with a clean and intuitive interface for commands, messaging, buttons, and more."
 URL = "https://github.com/TraxDinosaur/PyRexBot"
 AUTHOR = "TraxDinosaur"
