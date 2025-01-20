@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 
-class PyBotRex:
+class PyRexBot:
     """
     A simplified Telegram bot wrapper for building bots using python-telegram-bot.
     Provides an intuitive API for managing commands, messages, and more.
